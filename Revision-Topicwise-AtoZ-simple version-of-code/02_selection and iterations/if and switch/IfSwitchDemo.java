@@ -16,7 +16,7 @@ public class IfSwitchDemo {
             int grade = marks / 10; // to get range like 9 for 90–99
 
             switch (grade) {
-                case 10:
+             
                 case 9:
                     System.out.println("Grade: A");
                     break;
